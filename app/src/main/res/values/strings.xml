@@ -7,4 +7,10 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="toast_login">Logging in...</string>
+    <string name="option_title">Que veux-tu partager?</string>
+    <string name="linkSharing_textView">Insérez le lien que vous voulez partager :</string>
+    <string name="http">http://</string>
+    <string name="link_sharing_button">Partager</string>
+    <string name="noLink">Vous n\'avez pas entré de lien</string>
+
 </resources>

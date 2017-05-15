@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sharing_option_array">socksCategory
+        <item>Photo</item>
+        <item>Video</item>
+        <item>Lien</item>
+        <item>Comment</item>
+    </string-array>
+</resources>
