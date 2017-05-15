@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marion_TestApplication</string>
+    <string name="facebook_app_id">102465406984597</string>
+    <string name="login_toast">Login in....</string>
+    <string name="logout">Logout</string>
+    <string name="hello">Hello</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="toast_login">Logging in...</string>
+</resources>
